@@ -1,9 +1,4 @@
 
-<p align="center"> 
-<img src="https://user-images.githubusercontent.com/98614666/218313369-31f5049c-0dd4-4eca-b323-cccc3436a418.png"></img>
-</p>
-
-
 How to run:
 ```
   1. Verify that you have pip and python installed => https://www.youtube.com/watch?v=dYfKJMPNMDw
